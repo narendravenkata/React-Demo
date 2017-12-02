@@ -11,8 +11,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <p className="App-intro">
-          This is a Sample react application. I want to deploy this app in IIS.Currently I am testing with Jenkins Pipeline.
-            Currently I am using webhook to build application only when a commit is made. Hello Narendra.
+          Hello Narendra. I am deleting all files before copying the new files into IIS 
         </p>
       </div>
     );
