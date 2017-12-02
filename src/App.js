@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <p className="App-intro">
-          This is a Sample react application. I want to deploy this app in IIS.
+          This is a Sample react application. I want to deploy this app in IIS.Currently I am testing with Jenkins Pipeline.
         </p>
       </div>
     );
